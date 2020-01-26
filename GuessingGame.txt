@@ -1,0 +1,4 @@
+1. Line 10 reads in and stores input from the user
+2. Line 13 checks if the value satisfies the range
+3. Line 19 checks if odd or even
+4. Block Lines 18-24 handle everything else that comes after checking if the user entered a valid number

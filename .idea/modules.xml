@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculateBMI/CalculateBMI.iml" filepath="$PROJECT_DIR$/CalculateBMI/CalculateBMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculateInvestment/CalculateInvestment.iml" filepath="$PROJECT_DIR$/CalculateInvestment/CalculateInvestment.iml" />
+    </modules>
+  </component>
+</project>
